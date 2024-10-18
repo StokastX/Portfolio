@@ -143,7 +143,7 @@ author:
       url: "https://github.com/StokastX"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/patrick-attimont"
+      url: "https://linkedin.com/in/patrick-attimont"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -165,7 +165,7 @@ footer:
       url: "https://github.com/StokastX"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/patrick-attimont"
+      url: "https://linkedin.com/in/patrick-attimont"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
