@@ -142,7 +142,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/StokastX"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/patrick-attimont"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
