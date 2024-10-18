@@ -1,5 +1,6 @@
 ---
-title: Nexus Renderer
+title: ""
+toc: true
 permalink: /nexus/
 
 gallery:
@@ -36,9 +37,11 @@ gallery:
 
 ---
 
+# Nexus Renderer
+
 Interactive physically based GPU path tracer from scratch written in C++ using CUDA and OpenGL.
 
-## Screenshots
+## Gallery
 
 {% include gallery layout="half" %}
 
