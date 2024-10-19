@@ -39,7 +39,7 @@ gallery:
 
 # Nexus Renderer
 
-<a href="https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>
+<a href="https://github.com/StokastX/Nexus" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>
 
 Interactive physically based GPU path tracer from scratch written in C++ using CUDA and OpenGL.
 
