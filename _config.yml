@@ -28,7 +28,7 @@ title                    : "Patrick Attimont"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Patrick Attimont"
-description              : "An amazing website."
+description              : "Patrick's Porfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "StokastX/Portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
