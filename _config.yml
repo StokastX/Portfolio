@@ -29,8 +29,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Patrick Attimont"
 description              : "Patrick's Porfolio"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://stokastx.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "StokastX/Portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -247,8 +247,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
@@ -339,6 +339,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: ""

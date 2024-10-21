@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Projects"
 permalink: /projects/
 feature_row:
   - image_path: "/assets/images/canelle_et_fromage.jpg"
@@ -40,8 +40,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Projects
----------------------------
+---
 
 {% include feature_row type="left" %}
 

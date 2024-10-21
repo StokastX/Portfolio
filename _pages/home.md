@@ -6,6 +6,7 @@ header:
   image: "/assets/images/stormtrooper.jpg"
   caption: "Rendered with [**Nexus**](https://github.com/StokastX/Nexus)"
 ---
+---
 
 I'm an engineering student at Grenoble INP - Ensimag, aiming to pursue research in computer graphics.
 
