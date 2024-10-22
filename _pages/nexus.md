@@ -40,7 +40,8 @@ gallery:
 
 <a href="https://github.com/StokastX/Nexus" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>
 
-Interactive physically based GPU path tracer from scratch written in C++ using CUDA and OpenGL.
+Nexus is a GPU accelerated physically based renderer I am developing in my free time.
+It is written in C++ and CUDA to allow for interactive rendering by accumulating multiple frames over time.
 
 ## Gallery
 
@@ -50,7 +51,7 @@ Interactive physically based GPU path tracer from scratch written in C++ using C
 <p align="center"><em>Left: multiple importance sampling. Right: naive render (BSDF importance sampling). Image rendered at 24 spp.</em></p>-->
 
 
-## Features
+## Feature list
 - Interactive camera with thin lens approximation: FOV, defocus blur.
 - Wavefront path tracing, see [Laine et al. 2013](https://research.nvidia.com/sites/default/files/pubs/2013-07_Megakernels-Considered-Harmful/laine2013hpg_paper.pdf). The path tracing algorithm is divided into specialized CUDA kernels accessing global work queues to get more coherent workloads and to reduce the amount of inactive threads. Kernel launches are optimized using CUDA graphs.
 - Persistent threads with dynamic ray fetching, see [Aila and Laine 2009](https://research.nvidia.com/sites/default/files/pubs/2009-08_Understanding-the-Efficiency/aila2009hpg_paper.pdf). The trace kernel is launched with just enough threads to fill the device. During traversal, inactive threads will fetch new rays in the global trace queue to avoid wasting resources.
@@ -78,7 +79,7 @@ Nexus requires the following:
 ## Build
 - Clone the repository
    ```sh
-   git clone --recurse-submodules https://github.com/Patoche692/Nexus
+   git clone --recurse-submodules https://github.com/StokastX/Nexus
    ```
 - Launch the setup.bat script. It will generate a Visual Studio solution in the build folder
 
@@ -137,7 +138,7 @@ I also had a look at other renderer implementations such as Blender's [cycles](h
 - [ImGui](https://github.com/ocornut/imgui) for user interface
 - [stb](https://github.com/nothings/stb) for importing and exporting images
 
-## Models
+## Model credits
 - [LuxCore example scenes](https://luxcorerender.org/example-scenes/)
 - [Blender demo scenes](https://www.blender.org/download/demo-files/)
 - [Stormtrooper](https://www.blendswap.com/blend/13953) by [ScottGraham](https://www.blendswap.com/profile/120125)
