@@ -8,6 +8,8 @@ use_math: true
 toc: true
 toc_sticky: true
 words_per_minute: 75
+header:
+    teaser: "/assets/images/teasers/restir-pt.jpg"
 ---
 
 **Note:** this post is work in progress, I'm updating it whenever I find the time.
