@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: Hi there! 👋
+title:
 author_profile: true
 header:
   image: "/assets/images/stormtrooper.jpg"
   caption: "Rendered with [**Nexus**](https://github.com/StokastX/Nexus)"
+  image_description: ""
 ---
----
+
+<h2 class="hello">Hi there! 👋</h2>
 
 I'm an engineering student at Grenoble INP - Ensimag, aiming to pursue research in computer graphics.
 
