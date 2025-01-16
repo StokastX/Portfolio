@@ -1,8 +1,14 @@
 ---
 title: Minecraft
+layout: single
 toc: true
 toc_sticky: true
 permalink: /minecraft/
+header:
+  teaser: /assets/images/minecraft.jpg
+excerpt: A simple Perlin noise world generator written in C++ and OpenGL
+order: 6
+year: 2020
 ---
 
 <a href="https://github.com/StokastX/Minecraft" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>

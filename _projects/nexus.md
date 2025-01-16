@@ -1,8 +1,14 @@
 ---
 title: Nexus Renderer
+layout: single
 toc: true
 toc_sticky: true
 permalink: /nexus/
+header:
+  teaser: /assets/images/kitchen.jpg
+excerpt: A GPU physically based path tracer written in C++ and CUDA
+order: 1
+year: 2024
 
 gallery:
   - url: /assets/images/canelle_et_fromage.jpg

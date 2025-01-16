@@ -1,8 +1,14 @@
 ---
-title: Zendite Engine
+title: Zendite Engine (contributor)
+layout: single
 toc: true
 toc_sticky: true
 permalink: /zendite/
+header:
+  teaser: /assets/images/teasers/zendite_engine.jpg
+excerpt: A small-scale game engine written in C++ and OpenGL
+order: 2
+year: 2024
 ---
 
 <a href="https://github.com/StokastX/ZenditeEngineV2" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>

@@ -6,6 +6,8 @@ categories: "pbr"
 use_math: true
 toc: true
 toc_sticky: true
+header:
+    teaser: "/assets/images/teasers/restir-pt.jpg"
 ---
 
 ## Introduction

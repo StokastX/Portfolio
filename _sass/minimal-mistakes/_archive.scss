@@ -43,6 +43,11 @@
   }
 }
 
+// Fix for title in custom grids (included in a single layout)
+.page__content .archive__item-title {
+  padding-bottom: 0em;
+}
+
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
@@ -215,7 +220,7 @@
   }
 
   .archive__item-excerpt {
-    display: none;
+    //display: none;
 
     @include breakpoint($medium) {
       display: block;
@@ -232,6 +237,13 @@
       max-height: 120px;
     }
   }
+}
+
+// Fix for custom grid having zero height
+.entries-grid::after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
 /*

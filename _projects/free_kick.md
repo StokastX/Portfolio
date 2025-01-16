@@ -1,8 +1,14 @@
 ---
 title: Free Kick
+layout: single
 toc: true
 toc_sticky: true
 permalink: /free_kick/
+header:
+  teaser: /assets/images/free_kick.jpg
+excerpt: A free kick game written in Python using PyOpenGL
+order: 5
+year: 2020
 ---
 
 <a href="https://github.com/StokastX/Free-kick" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>

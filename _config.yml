@@ -347,3 +347,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      show_date: true
+
+collections:
+  projects:
+    output: true
+    permalink: /_projects/

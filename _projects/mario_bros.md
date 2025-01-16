@@ -1,8 +1,14 @@
 ---
 title: Super Mario Bros
+layout: single
 toc: true
 toc_sticky: true
 permalink: /mario_bros/
+header:
+  teaser: /assets/images/teasers/mario_bros.jpg
+excerpt: A Super Mario Bros like game written in C++ and SDL 
+order: 4
+year: 2019
 ---
 
 <a href="https://github.com/StokastX/Super-Mario-Bros" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>

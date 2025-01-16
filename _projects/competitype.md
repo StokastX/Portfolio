@@ -1,8 +1,14 @@
 ---
 title: CompetiType
+layout: single
 toc: true
 toc_sticky: true
 permalink: /competitype/
+header:
+  teaser: /assets/images/teasers/competitype.jpg
+excerpt: A typing speed Android app written in Kotlin using Jetpack Compose
+order: 3
+year: 2022
 ---
 
 <a href="https://github.com/StokastX/CompetiType" class=""> <sup><i class="fa-brands fa-github"></i> Github</sup></a>

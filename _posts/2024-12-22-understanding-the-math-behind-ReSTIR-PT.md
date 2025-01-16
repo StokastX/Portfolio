@@ -10,6 +10,7 @@ toc_sticky: true
 words_per_minute: 75
 header:
     teaser: "/assets/images/teasers/restir-pt.jpg"
+excerpt: Diving into the theoretical foundations of ReSTIR for path reuse in real time
 ---
 
 **Note:** this post is work in progress, I'm updating it whenever I find the time.
