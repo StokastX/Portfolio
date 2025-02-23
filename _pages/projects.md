@@ -15,7 +15,7 @@ sort_by: order
 <h2>Recent projects</h2>
 
 <div class="entries-grid">
-  {% for post in entries limit: 3 %}
+  {% for post in entries limit: 4 %}
     {% if post.header.teaser %}
       {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
     {% else %}
@@ -54,7 +54,7 @@ sort_by: order
 <h2>High school projects</h2>
 
 <div class="entries-grid">
-  {% for post in entries offset: 3 %}
+  {% for post in entries offset: 4 %}
     {% if post.header.teaser %}
       {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
     {% else %}

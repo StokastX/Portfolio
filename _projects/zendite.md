@@ -7,7 +7,7 @@ permalink: /zendite/
 header:
   teaser: /assets/images/teasers/zendite_engine.jpg
 excerpt: A small-scale game engine written in C++ and OpenGL
-order: 2
+order: 3
 year: 2024
 ---
 

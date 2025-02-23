@@ -7,7 +7,7 @@ permalink: /competitype/
 header:
   teaser: /assets/images/teasers/competitype.jpg
 excerpt: A typing speed Android app written in Kotlin using Jetpack Compose
-order: 3
+order: 4
 year: 2022
 ---
 

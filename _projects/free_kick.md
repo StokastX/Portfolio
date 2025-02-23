@@ -7,7 +7,7 @@ permalink: /free_kick/
 header:
   teaser: /assets/images/free_kick.jpg
 excerpt: A free kick game written in Python using PyOpenGL
-order: 5
+order: 6
 year: 2020
 ---
 

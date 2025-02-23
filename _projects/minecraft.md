@@ -7,7 +7,7 @@ permalink: /minecraft/
 header:
   teaser: /assets/images/minecraft.jpg
 excerpt: A simple Perlin noise world generator written in C++ and OpenGL
-order: 6
+order: 7
 year: 2020
 ---
 
